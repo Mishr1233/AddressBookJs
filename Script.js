@@ -54,6 +54,7 @@ myAddressBook.createContact("Jane", "Smith", "456 Oak St", "Dallas", "TXCV", "75
 myAddressBook.createContact("Emily", "Clark", "789 Pine St", "Los Angeles", "CAGD", "90025", "555-7890", "emily.clark@example.com");
 myAddressBook.createContact("Michael", "Brown", "987 Elm St", "Austin", "TXCV", "73301", "555-4321", "michael.brown@example.com");
 
+//All city and person
 console.log("View Persons by City:");
 console.log(myAddressBook.viewPersonsByCity());
 
